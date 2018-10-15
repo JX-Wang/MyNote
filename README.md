@@ -1,9 +1,9 @@
-WUD's learing record
+WUD的学习记录
 ====================
 
 
-*My Notebook and some projects*    
-**----------------------**
+*学习笔记及项目整理与代码分析*    
+**Tormorrow Will Be Brlliant**
 
 
 # programing language
