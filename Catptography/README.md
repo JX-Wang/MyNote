@@ -2,7 +2,7 @@ WUD's learing record
 ====================
 
 
-*My Notebook and some projects*
+*My Notebook and some projects*    
 **----------------------**
 
 
@@ -17,8 +17,8 @@ WUD's learing record
 
 ## C++
 
-# DATABASE
+# Database
 
-# CRAPTOGRAPHY
+# Craptography
 
-# 
+
