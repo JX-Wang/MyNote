@@ -12,6 +12,7 @@ WUD的学习记录
 
 
 ### Python
+> [深入理解List数据结构](http://wudly.cn)
 
 ### Java
 
