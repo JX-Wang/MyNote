@@ -1,10 +1,9 @@
-## ```2019```年度计划
 <!-- wp:heading {"level":3} -->
 <h3>技术</h3>
 <!-- /wp:heading -->
 
 <!-- wp:list {"ordered":true} -->
-<ol><li><del> 完成简历</del></li><li> 完成实验室任务</li><li> 完成大三科技立项</li><li> 牛客网至少500道题</li><li> LeetCode算法题至少100道</li><li> 复习整理算法知识，排序算法，数据结构相关内容</li><li> 复习整理操作系统，数据库，计算机网络相关内容</li><li> 复习整理 python 相关内容</li><li> 学习 C++ 相关内容</li><li> Github更新至少10个repo</li><li> 个人博客更新至少30篇文章</li><li> 学习前端内容(CSS, HTML5, Javascript)</li><li> 学习机器学习相关内容</li></ol>
+<ol><li><del> 完成简历</del></li><li> 完成实验室任务</li><li> 完成大三科技立项</li><li> 牛客网至少500道题（37/43）</li><li> LeetCode算法题至少100道</li><li> 复习整理算法知识，排序算法，数据结构相关内容</li><li> 复习整理操作系统，数据库，计算机网络相关内容</li><li> 复习整理 python 相关内容</li><li> 学习 C++ 相关内容</li><li> Github更新至少10个repo</li><li> 个人博客更新至少30篇文章</li><li> 学习前端内容(CSS, HTML5, Javascript)</li><li> 学习机器学习相关内容</li></ol>
 <!-- /wp:list -->
 
 <!-- wp:heading {"level":3} -->
