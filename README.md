@@ -5,11 +5,7 @@ WUD的学习笔记
 *学习笔记及项目整理与代码分析*    
 ***Life is Fantastic***
 
-
-## programing language
-
 ### C
-
 
 ### Python
 > [深入Python数据结构（一）—— list](http://wudly.cn/?p=299)  
