@@ -6,7 +6,7 @@ WUD的学习笔记
 ***Life is Fantastic***
 
 ### C
-
+> [线性表的构建](http://wudly.cn/?p=357)
 ### Python
 > [深入Python数据结构（一）—— list](http://wudly.cn/?p=299)  
 > [Python itertools.combiantions()方法分析](http://wudly.cn/?p=226)  
