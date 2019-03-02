@@ -29,7 +29,7 @@ WUD的学习笔记
 
 ## Database
 > Mysql
-> * [Python对Mysql操作出现的一些问题](http://wudly.cn/?p=156)
+> * [Python对Mysql操作出现的一些问题的分析](http://wudly.cn/?p=156)  
 > Redis
 > * [Redis的搭建与基本介绍](http://wudly.cn/?cat=15)  
 ## Craptography *Maybe Life Can't Be Encrypt*
