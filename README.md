@@ -5,13 +5,13 @@ WUD的学习笔记
 *学习笔记及项目整理与代码分析*    
 ***Life is Fantastic***
 
-### C
-> [线性表的构建](http://wudly.cn/?p=357)
 ### Python
 > [深入Python数据结构（一）—— list](http://wudly.cn/?p=299)  
 > [Python itertools.combiantions()方法分析](http://wudly.cn/?p=226)  
 > [Python进阶(一)](http://wudly.cn/?p=319)
-> [Python进阶(二)](http://wudly.cn/?p=351)
+> [Python进阶(二)](http://wudly.cn/?p=351)  
+### C/C++
+> [线性表的构建](http://wudly.cn/?p=357)  
 > #### 个人使用python创造的一些工具或者完成项目
 >> [Get whois server from MySQL or IANA (TLD)](http://wudly.cn/?p=1)  
 >> [A simple program to finish the task at regular intervals](http://wudly.cn/?p=108)  
@@ -19,10 +19,14 @@ WUD的学习笔记
 >> [基于SMTP协议的邮件系统](http://wudly.cn/?p=262)  
 >> [基于python tkinter 的排序算法的可视化](https://github.com/JX-Wang/Dynamic-Sorting)  
 >> [一个基于web的whois查询服务](https://github.com/JX-Wang/Whois_Service)  
-### Java
+### 数据结构
 
-### C++
+### 算法
 
+### TCP/IP
+
+### Linux&操作系统
+> [我的Linux使用记录](http://wudly.cn/?p=365)
 ## Database
 > #### Mysql
 > * [Python对Mysql操作出现的一些问题的分析](http://wudly.cn/?p=156)
