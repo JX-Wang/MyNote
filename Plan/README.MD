@@ -1,9 +1,13 @@
+<!-- wp:paragraph -->
+<p><em>Stay away from mediocre people</em></p>
+<!-- /wp:paragraph -->
+
 <!-- wp:heading {"level":3} -->
 <h3>技术</h3>
 <!-- /wp:heading -->
 
 <!-- wp:list {"ordered":true} -->
-<ol><li><del> 完成简历</del></li><li> 完成实验室任务</li><li> 完成大三科技立项</li><li> 牛客网至少500道题（67/100）</li><li> LeetCode算法题至少100道(6/7)</li><li> 复习整理算法知识，排序算法，数据结构相关内容</li><li> 复习整理操作系统，数据库，计算机网络相关内容</li><li> 复习整理 python 相关内容</li><li> 学习 C++ 相关内容</li><li> Github更新至少10个repo</li><li> 个人博客更新至少30篇文章</li><li> 学习前端内容(CSS, HTML5, Javascript)</li><li> 学习机器学习相关内容</li></ol>
+<ol><li><del> 完成简历</del></li><li> 完成实验室任务</li><li> 完成大三科技立项</li><li> 牛客网至少500道题（67/100）</li><li> LeetCode算法题至少100道 (6/7)</li><li> 复习整理算法知识，排序算法，数据结构相关内容</li><li> 复习整理操作系统，数据库，计算机网络相关内容</li><li> 复习整理 python 相关内容</li><li> 学习 C++ 相关内容</li><li> Github更新至少10个repo</li><li> 个人博客更新至少30篇文章</li><li> 学习前端内容(CSS, HTML5, Javascript)</li><li> 学习机器学习相关内容</li></ol>
 <!-- /wp:list -->
 
 <!-- wp:heading {"level":3} -->
@@ -22,9 +26,6 @@
 <ol><li> <strong>找到实习</strong></li><li> <strong>正式工作offer</strong></li><li> 毕业设计</li><li> 工作事宜</li><li> *古典吉他</li><li> <strong>认真对待每一天</strong></li></ol>
 <!-- /wp:list -->
 
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p> Making things easy </p></blockquote>
-<!-- /wp:quote -->
 
 <!-- wp:paragraph -->
 <p><br></p>
