@@ -17,6 +17,6 @@
 2019/9/17  
 * 上课 / 成绩确认表
 * 刷题
-* kafka / zokeeper 相关
+* kafka / zookeeper 相关
 * 工作相关
 * 其他
