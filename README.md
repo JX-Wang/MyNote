@@ -49,7 +49,8 @@ WUD`s Notes
 > [LeetCode 1. Two Sum](http://wudly.cn/?p=486)  
 > [Newcoder练习题](http://wudly.cn/?p=292)  
 
-### TCP/IP
+### 设计模式
+> [单例模式](http://wudly.cn/?p=622)
 
 ### Linux&操作系统
 > [我的Linux使用记录](http://wudly.cn/?p=365)  
