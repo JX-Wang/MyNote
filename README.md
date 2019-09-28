@@ -12,32 +12,73 @@ WUD`s Notes
 > [Python进阶(二)](http://wudly.cn/?p=351)  
 ### C/C++
 > [线性表的构建](http://wudly.cn/?p=357)  
-> #### 个人使用python创造的一些工具或者完成项目
->> [Get whois server from MySQL or IANA (TLD)](http://wudly.cn/?p=1)  
->> [A simple program to finish the task at regular intervals](http://wudly.cn/?p=108)  
->> [A simple program to finish the task at regular intervals — Version 1.1](http://wudly.cn/?p=133)  
->> [基于SMTP协议的邮件系统](http://wudly.cn/?p=262)  
->> [基于python tkinter 的排序算法的可视化](https://github.com/JX-Wang/Dynamic-Sorting)  
->> [一个基于web的whois查询服务](https://github.com/JX-Wang/Whois_Service)  
+
 ### 数据结构
 
 ### 算法
+> [LeetCode 100. Same Tree](http://wudly.cn/?p=561)  
+> [LeetCode 107. Binary Tree Level Order Traversal II](http://wudly.cn/?p=559)  
+> [LeetCode 637. Average of Levels in Binary Tree](http://wudly.cn/?p=557)  
+> [LeetCode 404. Sum of Left Leaves](http://wudly.cn/?p=555)  
+> [LeetCode 429. N-ary Tree Level Order Traversal](http://wudly.cn/?p=553)  
+> [LeetCode 389. Find the Difference](http://wudly.cn/?p=549)  
+> [cpp->LeetCode 83. Remove Duplicates from Sorted List](http://wudly.cn/?p=544)  
+> [cpp->LeetCode 104. Maximum Depth of Binary Tree](http://wudly.cn/?p=542)  
+> [LeetCode 14. Longest Common Prefix](http://wudly.cn/?p=539)  
+> [LeetCode 70. Climbing Stairs](http://wudly.cn/?p=537)  
+> [LeetCode 53. Maximum Subarray](http://wudly.cn/?p=533)  
+> [LeetCode 28. Implement strStr()](http://wudly.cn/?p=531)  
+> [LeetCode 461. Hamming Distance](http://wudly.cn/?p=529)  
+> [LeetCode 448. Find All Numbers Disappeared in an Array](http://wudly.cn/?p=527)  
+> [LeetCode 371. Sum of Two Integers](http://wudly.cn/?p=525)  
+> [LeetCode 344. Reverse String](http://wudly.cn/?p=523)  
+> [LeetCode 202. Happy Number](http://wudly.cn/?p=521)  
+> [leetCode 217. Contains Duplicate](http://wudly.cn/?p=518)  
+> [LeetCode 169. Majority Element](http://wudly.cn/?p=516)  
+> [LeetCode 167. Two Sum II – Input array is sorted](http://wudly.cn/?p=514)  
+> [LeetCode 67. Add Binary](http://wudly.cn/?p=511)  
+> [LeetCode 69. Sqrt(x)](http://wudly.cn/?p=509)  
+> [LeetCode 66. Plus One](http://wudly.cn/?p=506)  
+> [LeetCode 136. Single Number](http://wudly.cn/?p=501)  
+> [LeetCode 35. Search Insert Position](http://wudly.cn/?p=499)  
+> [LeetCode 35. Search Insert Position](http://wudly.cn/?p=499)  
+> [LeetCode 27. Remove Element](http://wudly.cn/?p=497)  
+> [LeetCode 26. Remove Duplicates from Sorted Array](http://wudly.cn/?p=495)  
+> [LeetCode 9. Palindrome Number](http://wudly.cn/?p=493)  
+> [LeetCode 7. Reverse Integer](http://wudly.cn/?p=490)  
+> [LeetCode 1. Two Sum](http://wudly.cn/?p=486)  
+> [Newcoder练习题](http://wudly.cn/?p=292)  
 
 ### TCP/IP
 
 ### Linux&操作系统
-> [我的Linux使用记录](http://wudly.cn/?p=365)
+> [我的Linux使用记录](http://wudly.cn/?p=365)  
+
+
 ## Database
 > #### Mysql
 > * [Python对Mysql操作出现的一些问题的分析](http://wudly.cn/?p=156)
 > #### Redis
 > * [Redis的搭建与基本介绍](http://wudly.cn/?cat=15)  
-> * [深入理解Redis](http://wudly.cn/?p=580)
-## Craptography *Maybe Life Can't Be Encrypt*
+> * [深入理解Redis](http://wudly.cn/?p=580)  
+
+## BigData
+> #### Kafka
+> * []()  
+> #### RabbitMQ
+> * [消息队列 – RabbitMQ](http://wudly.cn/?p=634)
+
+## Craptography *Maybe Life Can't Be Encrypt*  
 #### RSA encryption algorithm
 > ![C version]('https://github.com/JX-Wang/AES')  
 > ![Python version]('https://github.com/JX-Wang/RSA_encryption_algorithm')
 * [基于SMTP协议的邮件系统，内部使用AES对附件以及内容进行加密](http://wudly.cn/?p=262)  
 * [Python实现的RSA加密算法](https://github.com/JX-Wang/RSA_encryption_algorithm)  
 
-
+### 个人使用python创造的一些工具或者完成项目
+> [Get whois server from MySQL or IANA (TLD)](http://wudly.cn/?p=1)  
+> [A simple program to finish the task at regular intervals](http://wudly.cn/?p=108)  
+> [A simple program to finish the task at regular intervals — Version 1.1](http://wudly.cn/?p=133)  
+> [基于SMTP协议的邮件系统](http://wudly.cn/?p=262)  
+> [基于python tkinter 的排序算法的可视化](https://github.com/JX-Wang/Dynamic-Sorting)  
+> [一个基于web的whois查询服务](https://github.com/JX-Wang/Whois_Service)  
