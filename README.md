@@ -68,7 +68,7 @@ WUD`s Notes
 > * []()  
 > #### RabbitMQ
 > * [消息队列 – RabbitMQ](http://wudly.cn/?p=634)
-
+> * [消息队列 - RabbitMQ(集群)](http://wudly.cn/?p=647)  
 ## Craptography *Maybe Life Can't Be Encrypt*  
 #### RSA encryption algorithm
 > ![C version]('https://github.com/JX-Wang/AES')  
