@@ -8,7 +8,7 @@ WUD`s Notes
 ### Python
 > [深入Python数据结构（一）—— list](http://wudly.cn/?p=299)  
 > [Python itertools.combiantions()方法分析](http://wudly.cn/?p=226)  
-> [Python进阶(一)](http://wudly.cn/?p=319)
+> [Python进阶(一)](http://wudly.cn/?p=319)  
 > [Python进阶(二)](http://wudly.cn/?p=351)  
 ### C/C++
 > [线性表的构建](http://wudly.cn/?p=357)  
@@ -74,8 +74,8 @@ WUD`s Notes
 > * [消息队列 - RabbitMQ(集群)](http://wudly.cn/?p=647)  
 ## Craptography *Maybe Life Can't Be Encrypt*  
 #### RSA encryption algorithm
-> ![C version]('https://github.com/JX-Wang/AES')  
-> ![Python version]('https://github.com/JX-Wang/RSA_encryption_algorithm')
+> [C version](https://github.com/JX-Wang/AES)  
+> [Python version](https://github.com/JX-Wang/RSA_encryption_algorithm)
 * [基于SMTP协议的邮件系统，内部使用AES对附件以及内容进行加密](http://wudly.cn/?p=262)  
 * [Python实现的RSA加密算法](https://github.com/JX-Wang/RSA_encryption_algorithm)  
 
