@@ -75,7 +75,8 @@ WUD`s Notes
 
 ## BigData
 > #### Kafka
-> * []()  
+> * [KafKa 简介以及单点部署](http://wudly.cn/?p=654)  
+
 > #### RabbitMQ
 > * [消息队列 – RabbitMQ](http://wudly.cn/?p=634)
 > * [消息队列 - RabbitMQ(集群)](http://wudly.cn/?p=647)  
