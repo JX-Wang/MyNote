@@ -7,9 +7,11 @@ WUD`s Notes
 
 ### Python
 > [深入Python数据结构（一）—— list](http://wudly.cn/?p=299)  
-> [Python itertools.combiantions()方法分析](http://wudly.cn/?p=226)  
+> ~~[Python itertools.combiantions()方法分析](http://wudly.cn/?p=226)~~    
 > [Python进阶(一)](http://wudly.cn/?p=319)  
 > [Python进阶(二)](http://wudly.cn/?p=351)  
+> [Flask](http://wudly.cn/?p=428)  
+
 ### C/C++
 > [线性表的构建](http://wudly.cn/?p=357)  
 
