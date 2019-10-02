@@ -59,6 +59,9 @@ WUD`s Notes
 ## Database
 > #### Mysql
 > * [Python对Mysql操作出现的一些问题的分析](http://wudly.cn/?p=156)
+> * [Mysql 自动截断分析](http://wudly.cn/?p=587)
+> * [MySQL索引背后的数据结构及算法原理](http://wudly.cn/?p=388)
+> * [Ubuntu 14.04 安装MySQL 5.7.18](http://wudly.cn/?p=426)
 > #### Redis
 > * [Redis的搭建与基本介绍](http://wudly.cn/?cat=15)  
 > * [深入理解Redis](http://wudly.cn/?p=580)  
