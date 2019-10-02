@@ -2,8 +2,8 @@ WUD`s Notes
 ====================
 
 
-*学习笔记及项目整理与代码分析*    
-***Life is Fantastic***
+*学习笔记及一些项目*    
+
 
 ### Python
 > [深入Python数据结构（一）—— list](http://wudly.cn/?p=299)  
@@ -55,7 +55,7 @@ WUD`s Notes
 > [单例模式](http://wudly.cn/?p=622)
 
 ### Linux&操作系统
-> [Linux使用记录](http://wudly.cn/?p=365)  
+> [Linux命令](http://wudly.cn/?p=365)  
 > [提高 uwsgi 并发量](http://wudly.cn/?p=451)  
 ### Machine Learning
 > [KCF目标跟踪方法](http://wudly.cn/?p=458)  
@@ -66,7 +66,7 @@ WUD`s Notes
 > * [Mysql 自动截断分析](http://wudly.cn/?p=587)
 > * [MySQL索引背后的数据结构及算法原理](http://wudly.cn/?p=388)
 > * [Ubuntu 14.04 安装MySQL 5.7.18](http://wudly.cn/?p=426)
-> * [Ubuntu14.04下 Mysql版本升级（优化）](http://wudly.cn/?p=210)  
+> * [Ubuntu14.04下Mysql版本升级（优化）](http://wudly.cn/?p=210)  
 
 
 > #### Redis
