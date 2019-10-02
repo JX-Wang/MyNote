@@ -2,7 +2,7 @@ WUD`s Notes
 ====================
 
 
-*学习笔记及一些项目*    
+*学习笔记及一些项目整理*    
 
 
 ### Python
@@ -15,7 +15,7 @@ WUD`s Notes
 ### C/C++
 > [线性表的构建](http://wudly.cn/?p=357)  
 
-### 数据结构
+### ~~数据结构~~
 
 ### 算法
 > [LeetCode 100. Same Tree](http://wudly.cn/?p=561)  
