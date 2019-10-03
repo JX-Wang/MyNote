@@ -11,6 +11,8 @@ WUD`s Notes
 > [Python进阶(一)](http://wudly.cn/?p=319)  
 > [Python进阶(二)](http://wudly.cn/?p=351)  
 > [Flask](http://wudly.cn/?p=428)  
+> [Confluent Kafka](https://github.com/JX-Wang/kafka_learning)  
+> [OpenCV KCF Python3.7.X](https://github.com/JX-Wang/VideoTracking)
 
 ### C/C++
 > [线性表的构建](http://wudly.cn/?p=357)  
@@ -74,12 +76,17 @@ WUD`s Notes
 > * [深入理解Redis](http://wudly.cn/?p=580)  
 
 ## BigData
-> #### Kafka
+> #### KafKa
 > * [KafKa 简介以及单点部署](http://wudly.cn/?p=654)  
+> * [KafKa Cluster](http://wudly.cn/?p=708)  
 
 > #### RabbitMQ
 > * [消息队列 – RabbitMQ](http://wudly.cn/?p=634)
-> * [消息队列 - RabbitMQ(集群)](http://wudly.cn/?p=647)  
+> * [消息队列 - RabbitMQ(Cluster)](http://wudly.cn/?p=647)  
+
+> #### ZooKeeper
+> * [Zookeeper 注册中心](http://wudly.cn/?p=710)  
+
 ## Craptography *Maybe Life Can't Be Encrypt*  
 #### RSA encryption algorithm
 > [C version](https://github.com/JX-Wang/AES)  
@@ -94,3 +101,4 @@ WUD`s Notes
 > [基于SMTP协议的邮件系统](http://wudly.cn/?p=262)  
 > [基于python tkinter 的排序算法的可视化](https://github.com/JX-Wang/Dynamic-Sorting)  
 > [一个基于web的whois查询服务](https://github.com/JX-Wang/Whois_Service)  
+> [LogAnalyze 日志分析](https://github.com/JX-Wang/LogAnalyze)
