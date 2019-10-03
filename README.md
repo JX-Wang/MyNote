@@ -101,4 +101,4 @@ WUD`s Notes
 > [基于SMTP协议的邮件系统](http://wudly.cn/?p=262)  
 > [基于python tkinter 的排序算法的可视化](https://github.com/JX-Wang/Dynamic-Sorting)  
 > [一个基于web的whois查询服务](https://github.com/JX-Wang/Whois_Service)  
-> [LogAnalyze 日志分析](https://github.com/JX-Wang/LogAnalyze)
+> [LogAnalyze 日志分析(可视)](https://github.com/JX-Wang/LogAnalyze)
