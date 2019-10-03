@@ -51,7 +51,7 @@ WUD`s Notes
 > [LeetCode 9. Palindrome Number](http://wudly.cn/?p=493)  
 > [LeetCode 7. Reverse Integer](http://wudly.cn/?p=490)  
 > [LeetCode 1. Two Sum](http://wudly.cn/?p=486)  
-> [Newcoder练习题](http://wudly.cn/?p=292)  
+> [Newcoder练习题 X 17](http://wudly.cn/?p=292)  
 
 ### 设计模式
 > [单例模式](http://wudly.cn/?p=622)
