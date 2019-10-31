@@ -1,20 +1,20 @@
 
 学习笔记及一些项目整理
 
+## 编程语言
+#### Python
+> * [深入Python数据结构（一）—— list](http://wudly.cn/?p=299)  
+> * ~~[Python itertools.combiantions()方法分析](http://wudly.cn/?p=226)~~    
+> * [Python进阶(一)](http://wudly.cn/?p=319)  
+> * [Python进阶(二)](http://wudly.cn/?p=351)  
+> * [Flask](http://wudly.cn/?p=428)  
+> * [Confluent Kafka](https://github.com/JX-Wang/kafka_learning)  
+> * [OpenCV KCF Python3.7.X](https://github.com/JX-Wang/VideoTracking)
 
-### Python
-> [深入Python数据结构（一）—— list](http://wudly.cn/?p=299)  
-> ~~[Python itertools.combiantions()方法分析](http://wudly.cn/?p=226)~~    
-> [Python进阶(一)](http://wudly.cn/?p=319)  
-> [Python进阶(二)](http://wudly.cn/?p=351)  
-> [Flask](http://wudly.cn/?p=428)  
-> [Confluent Kafka](https://github.com/JX-Wang/kafka_learning)  
-> [OpenCV KCF Python3.7.X](https://github.com/JX-Wang/VideoTracking)
-
-### C/C++
-> [线性表的构建](http://wudly.cn/?p=357)  
-> [C++ 参数传递方式](https://github.com/JX-Wang/MyNote/tree/master/cpp/Reference)  
-> [C++ 面向对象](https://github.com/JX-Wang/MyNote/tree/master/cpp/Oop)
+#### C/C++
+> * [线性表的构建](http://wudly.cn/?p=357)  
+> * [C++ 参数传递方式](https://github.com/JX-Wang/MyNote/tree/master/cpp/Reference)  
+> * [C++ 面向对象](https://github.com/JX-Wang/MyNote/tree/master/cpp/Oop)
 
 
 ### 算法与数据结构
