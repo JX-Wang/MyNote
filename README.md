@@ -1,6 +1,3 @@
-WUD`s Notes
-====================
-
 
 *学习笔记及一些项目整理*    
 
@@ -17,9 +14,8 @@ WUD`s Notes
 ### C/C++
 > [线性表的构建](http://wudly.cn/?p=357)  
 
-### ~~数据结构~~
 
-### 算法
+### 算法与数据结构
 > [LeetCode 100. Same Tree](http://wudly.cn/?p=561)  
 > [LeetCode 107. Binary Tree Level Order Traversal II](http://wudly.cn/?p=559)  
 > [LeetCode 637. Average of Levels in Binary Tree](http://wudly.cn/?p=557)  
@@ -66,10 +62,10 @@ WUD`s Notes
 > [BIND DNS服务器](http://)  
 
 
-### Machine Learning
+### 机器学习
 > [KCF目标跟踪方法](http://wudly.cn/?p=458)  
 
-## Database
+## 数据库
 > #### Mysql
 > * [Python对Mysql操作出现的一些问题的分析](http://wudly.cn/?p=156)
 > * [Mysql 自动截断分析](http://wudly.cn/?p=587)
@@ -82,7 +78,7 @@ WUD`s Notes
 > * [Redis的搭建与基本介绍](http://wudly.cn/?cat=15)  
 > * [深入理解Redis](http://wudly.cn/?p=580)  
 
-## BigData
+## 大数据
 > #### KafKa
 > * [KafKa 简介以及单点部署](http://wudly.cn/?p=654)  
 > * [KafKa Cluster](http://wudly.cn/?p=708)  
@@ -94,12 +90,12 @@ WUD`s Notes
 > #### ZooKeeper
 > * [Zookeeper 注册中心](http://wudly.cn/?p=710)  
 
-## Craptography *Maybe Life Can't Be Encrypt*  
+## 安全
 #### RSA encryption algorithm
 > [C version](https://github.com/JX-Wang/AES)  
 > [Python version](https://github.com/JX-Wang/RSA_encryption_algorithm)
-* [基于SMTP协议的邮件系统，内部使用AES对附件以及内容进行加密](http://wudly.cn/?p=262)  
-* [Python实现的RSA加密算法](https://github.com/JX-Wang/RSA_encryption_algorithm)  
+> [基于SMTP协议的邮件系统，内部使用AES对附件以及内容进行加密](http://wudly.cn/?p=262)  
+> [Python实现的RSA加密算法](https://github.com/JX-Wang/RSA_encryption_algorithm)  
 
 ### 个人使用python创造的一些工具或者完成项目
 > [Get whois server from MySQL or IANA (TLD)](http://wudly.cn/?p=1)  
