@@ -59,6 +59,13 @@ WUD`s Notes
 ### Linux&操作系统
 > [Linux命令](http://wudly.cn/?p=365)  
 > [提高 uwsgi 并发量](http://wudly.cn/?p=451)  
+> [Linux DPDK](http://)
+> [深入学习DNS](http://)
+> [Linux kernel](http://)
+> [CDN负载均衡](http://)
+> [BIND DNS服务器](http://)
+
+
 ### Machine Learning
 > [KCF目标跟踪方法](http://wudly.cn/?p=458)  
 
