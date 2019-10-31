@@ -27,8 +27,26 @@ int main(){
     std::cout << w2.age << " " << w2.height << " " << w2.gender << std::endl;
 }
 ```
+### 空类
 
-#### 类的继承
+空类的大小不为0，为1字节
+
+```C++
+class Empty{
+};
+
+int main(int argc, char** argv)
+{
+    std::cout << "Sizeof Empty class is -> " << sizeof(Empty) << std::endl;
+    return 0;
+}
+
+输出: Sizeof Empty class is -> 1
+
+```
+
+
+### 类的继承
 
 ##### 简单继承
 简单继承不涉及到虚函数和多重继承
