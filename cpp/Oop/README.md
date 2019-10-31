@@ -52,7 +52,7 @@ public:
 protected:
 	int b1;
 ```
-![avatar](https://github.com/JX-Wang/MyNote/tree/master/cpp/Oop/oop-inheriteasy.png)
+![](https://github.com/JX-Wang/MyNote/blob/master/cpp/Oop/oop-inheriteasy.png)
 
 
 
