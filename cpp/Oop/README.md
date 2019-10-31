@@ -1,7 +1,7 @@
 C++的类
 
 一个简单的woody类
-'''C++
+```C++
 #include <iostream>
 using namespace std;
 
@@ -27,6 +27,32 @@ int main(){
     std::cout << w2.age << " " << w2.height << " " << w2.gender << std::endl;
 }
 ```
+
+#### 类的继承
+
+##### 简单继承
+简单继承不涉及到虚函数和多重继承
+子类对象含有父类对象的成员变量，并且布局上父类成员更靠前
+```C++
+class A
+{
+public:
+	A(int a1=0,int a2=0);
+	void A1();
+protected:
+	int a1;
+	int a2;
+};
+
+class B :public  A
+{
+public:
+	B(int a1=0,int a2=0,int b1=0);
+	void B1();
+protected:
+	int b1;
+```
+![avatar](https://github.com/JX-Wang/MyNote/tree/master/cpp/Oop/oop-inheriteasy.jpg)
 
 
 

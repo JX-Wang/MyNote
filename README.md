@@ -14,6 +14,7 @@
 ### C/C++
 > [线性表的构建](http://wudly.cn/?p=357)  
 > [C++ 参数传递方式](https://github.com/JX-Wang/MyNote/tree/master/cpp/Reference)  
+> [C++ 面向对象](https://github.com/JX-Wang/MyNote/tree/master/cpp/Oop)
 
 
 ### 算法与数据结构
