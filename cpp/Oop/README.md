@@ -75,4 +75,4 @@ protected:
 ![](https://github.com/JX-Wang/MyNote/blob/master/cpp/Oop/oop-inheriteasy.png)
 
 
-
+waitting ... 
