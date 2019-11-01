@@ -58,7 +58,8 @@
 > * [Zookeeper 集群注册中心](https://github.com/JX-Wang/MyNote/tree/master/Big_Data/Zookeeper)  
 
 > #### Elastic Search
->> [ES 弹性搜索](https://github.com/JX-Wang/MyNote/tree/master/Big_Data/ElasticSearch)
+> * [ES 弹性搜索](https://github.com/JX-Wang/MyNote/tree/master/Big_Data/ElasticSearch)
+
 ## 安全
 #### RSA encryption algorithm
 > [C version](https://github.com/JX-Wang/AES)  
