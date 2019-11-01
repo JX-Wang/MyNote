@@ -10,7 +10,6 @@ import pymysql
 import random
 import threading
 from faker import Faker
-# 引入大魔王，code 无敌！
 
 COUNT = 0
 
