@@ -1,7 +1,7 @@
 
 学习笔记及一些项目整理
 
-## 编程语言
+### 编程语言
 #### Python
 > * [深入Python数据结构（一）—— list](http://wudly.cn/?p=299)  
 > * ~~[Python itertools.combiantions()方法分析](http://wudly.cn/?p=226)~~    
@@ -32,7 +32,7 @@
 ### 机器学习
 > [KCF目标跟踪方法](http://wudly.cn/?p=458)  
 
-## 数据库
+### 数据库
 > #### Mysql
 > * [Python对Mysql操作出现的一些问题的分析](http://wudly.cn/?p=156)
 > * [Mysql 自动截断分析](http://wudly.cn/?p=587)
@@ -45,7 +45,7 @@
 > * [Redis的搭建与基本介绍](http://wudly.cn/?cat=15)  
 > * [深入理解Redis](http://wudly.cn/?p=580)  
 
-## 大数据
+### 云计算/大数据
 > #### KafKa
 > * [KafKa 分布式消息队列](https://github.com/JX-Wang/MyNote/tree/master/Big_Data/Kafka)  
 > * [KafKa Cluster](http://wudly.cn/?p=708)  
@@ -60,7 +60,11 @@
 > #### Elastic Search
 > * [ES 弹性搜索](https://github.com/JX-Wang/MyNote/tree/master/Big_Data/ElasticSearch)
 
-## 安全
+> #### Openstack
+> * [Openstack 搭建](https://github.com/JX-Wang/MyNote/tree/master/Cloud_Computing/OpenStack)  
+
+
+### 安全
 #### RSA encryption algorithm
 > [C version](https://github.com/JX-Wang/AES)  
 > [Python version](https://github.com/JX-Wang/RSA_encryption_algorithm)
