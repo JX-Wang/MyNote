@@ -1,5 +1,6 @@
 
-学习笔记及一些项目整理
+## 笔记及个人项目整理
+![](https://img.shields.io/badge/license-WTFPL-blue.svg) ![](https://img.shields.io/github/repo-size/JX-Wang/MyNote.svg) ![](https://img.shields.io/bitbucket/issues-raw/JX-Wang/MyNote.svg) ![](https://img.shields.io/github/forks/JX-Wang/MyNote.svg?label=Fork) ![](https://img.shields.io/github/stars/JX-Wang/MyNote.svg?style=social)  
 
 ### 编程语言
 #### Python
