@@ -32,6 +32,8 @@
 
 ### 机器学习
 > [KCF目标跟踪方法](http://wudly.cn/?p=458)  
+> [Tensorflow 机器学习框架](https://github.com/JX-Wang/MyNote/tree/master/Machine_Learning/Tenserflow)  
+
 
 ### 数据库
 > #### Mysql
